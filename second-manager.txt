@@ -1,1 +1,2 @@
 This is the second manager.
+Line from A fix.
